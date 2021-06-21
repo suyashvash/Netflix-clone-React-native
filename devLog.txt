@@ -1,0 +1,21 @@
+Project Name - Netflix Clone
+Language - JS
+FrameWork - React Native
+
+Project Start Date - 20/6/21
+Project Start Time - 2:00 AM Morning
+
+//////////{ Day 1 20/6/21 }/////////////
+
+Work Hour 1 - 2:00 AM to 4:00 AM {2 hrs} [ basic Setup]
+Work Hour 2 - 6:00 PM to 8:30 PM  {2:30 hrs} [ Home Screen Done]
+
+Work Hour 3 - 9:00 PM to 10:00 PM {1 hr} [ Coming Soon Screen Done]
+Work Hour 4 - 10:10 PM to 10:30 PM {0.5 hr} [Download Screen Done]
+
+//////////////////////////////////////////
+
+Project Completed
+Project End Time - 10:40 PM @ 20/06/21
+
+Total Time spent - 6 hrs  [ Easy relaxed Mode]
